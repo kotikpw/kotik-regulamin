@@ -1,0 +1,4 @@
+kotik-regulamin
+===============
+
+Regulamin koła
